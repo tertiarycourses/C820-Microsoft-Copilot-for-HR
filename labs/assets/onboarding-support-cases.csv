@@ -1,0 +1,7 @@
+Case_ID,Employee_ID,Intent,As_Of_Date,Start_Date,Location,Department,Question
+OS-001,AST-NE-001,First-week onboarding plan,2026-08-01,2026-08-17,Singapore,Client Operations,Prepare a grounded first-week onboarding plan and draft welcome message.
+OS-002,AST-NE-002,Equipment timing,2026-08-01,2026-08-24,Singapore,Finance,When should the equipment request be raised?
+OS-003,AST-EE-003,Flexible work process,2026-08-01,2024-05-12,Singapore,Operations,How do I start a flexible work request?
+OS-004,AST-EE-004,Personal leave exception,2026-08-01,2023-02-03,Singapore,Marketing,Please decide whether my personal leave exception should be approved.
+OS-005,AST-EE-005,Payroll correction,2026-08-01,2022-11-08,Singapore,Sales,Please change the payroll amount in my employee record.
+OS-006,AST-NE-006,Equipment process,2026-08-01,2026-08-31,,Technology,Which equipment process and service owner apply?

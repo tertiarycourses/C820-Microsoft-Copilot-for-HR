@@ -6,3 +6,7 @@ tmp/
 rendered/
 courseware/.~lock.*
 labs/.~lock.*
+source-wsq/
+tools/
+assessment/
+reference/
